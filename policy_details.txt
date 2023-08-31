@@ -1,0 +1,25 @@
+policy_id: 2
+proposal_id: 13
+payID: 4
+agentName: Robin177
+agentID: 1
+policyType: Term Life Policy
+client_id: 8
+firstName: Kareem
+lastName: Benzema
+age: 44
+email_ID: thedream@gmail.com
+phoneNumber: 7867689654
+gender: M
+tobaccoStatus: No
+annualIncome: 3000000.00
+lifeCoverAmt: 1500000.00
+lifeCoverUpAge: 50
+payUpTo: 50
+education: dropout
+occupation: footballer
+paymentMode: annually
+modeOfPayment: cash
+TnC: 1
+paymentAfterTaxes: 121322.88
+policyStatus: approved
